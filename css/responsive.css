@@ -8,3 +8,9 @@
     right: 4px
   }
 }
+
+@media screen only and (max-width: 900px){
+  body {
+    font-size: 85%
+  }
+}
