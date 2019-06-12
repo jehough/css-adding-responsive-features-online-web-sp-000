@@ -1,3 +1,8 @@
-@media screen only and (max-width: 1100px){
-
+@media screen only and (max-width: 1108px){
+  .wrapper {
+    width: 90%
+  }
+  #social {
+    position: absolute;
+  }
 }
