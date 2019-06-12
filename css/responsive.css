@@ -47,4 +47,12 @@
     margin-left: 0px;
     float: none
   }
+
+  .border-right{
+    border: 0px
+  }
+
+  #details div{
+    height: auto
+  }
 }
